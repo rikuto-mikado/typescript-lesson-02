@@ -1,0 +1,8 @@
+# Compiled JavaScript (generated from TypeScript)
+*.js
+
+# Node modules
+node_modules/
+
+# macOS
+.DS_Store
