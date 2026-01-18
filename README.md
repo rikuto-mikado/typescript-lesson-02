@@ -48,6 +48,10 @@ Uppercase versions are wrapper objects, not primitives.
 | `interface` | object shape definition |
 | `type` | type alias |
 
+## Challenges
+
+-
+
 ## Memo: Node.js Package Management
 
 Same concept as Python virtual environments:
